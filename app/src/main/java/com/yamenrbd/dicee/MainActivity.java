@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 Random randomNumberGenerator = new Random();
                 int number = randomNumberGenerator.nextInt(6);
                 Log.d("Dicee","the randome number is "+ number);
+                //this is test on Git
             }
         });
 
